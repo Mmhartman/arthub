@@ -55,6 +55,17 @@ $rgba-secondary-2-4: rgba( 64,160,202,1);
 
 $body-font: "Open Sans", sans-serif;
 $header-font: "Lobster", cursive;
-#main {
-	background-color: $color-secondary-2-3;
+
+body {
+	background-color: $color-primary-0;
+}
+.col {
+	padding-top: 1rem;
+	padding-bottom: 1rem; 
+}
+header {
+	background-color: $color-primary-2;	
+}
+footer {
+	background-color: $color-primary-2;
 }

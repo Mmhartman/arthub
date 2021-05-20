@@ -1,2 +1,12 @@
-#main {
-  background-color: #1C5D7A; }
+body {
+  background-color: #091A40; }
+
+.col {
+  padding-top: 1rem;
+  padding-bottom: 1rem; }
+
+header {
+  background-color: #020A1A; }
+
+footer {
+  background-color: #020A1A; }
